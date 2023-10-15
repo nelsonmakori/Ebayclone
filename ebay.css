@@ -107,6 +107,7 @@ li a{
 }
 li a:hover{
     color: blue;
+    text-decoration: underline;
 }
 .list-item{
     margin-left: 15px;
@@ -163,4 +164,36 @@ li a:hover{
     margin-top: 5px;
     
 }
+.equipment-discount{
+    font-weight: bold;
+    font-size: 16px;  
+}
+.trending-kicks{
+    display: flex;
+    margin-left: 10px;
+}
+.see-all{
+    display: flex;
+    align-items: center;
+}
+.sneakers{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.jordan{
+font-weight: var(#3333333);
+ 
+    
+    
+}
+.jordan img{
+    height: 80px;
+}
+body{
+    height: 100vh;
+    /* background-color: blue; */
+}
+
 
