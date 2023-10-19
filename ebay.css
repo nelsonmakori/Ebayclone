@@ -195,5 +195,40 @@ body{
     height: 100vh;
     /* background-color: blue; */
 }
+.jewel{
+    display: flex;
+    background-color: black;
+    height: 200px;
+    width: 100%;
+}
+.necklace-ring{
+    margin-left: 250px;
+    margin-top: 0px;
+    align-items: center;
+}
+.necklace-jewel{
+    height: 90px;
+    background-color: black;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.ring-jewel{
+    height: 40px;
+    height: 105px;
+    width: 105px;
+    padding: 50px;
+}
+.jewel-discount{
+    color: white;
+    padding-left: 35px;
+}
+.fine-jewel{
+    font-size: 17px;
+}
+.get-the-glam{
+    display:flex ;
+    align-items: center;
+    border: 1px solid white;
+}
 
 
