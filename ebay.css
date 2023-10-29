@@ -52,7 +52,7 @@ select{
 .search-all-categories{
     background-color: #fff;
     padding: 9.6px;
-    padding: left: 30px;
+    /* padding: left: 30px; */
     margin-left:-95px;
     border-width: thin;
     font-size:11px;
