@@ -1,0 +1,203 @@
+.left-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.middle-section{
+    /* background-color: blue; */
+    margin-left: 0px;
+    flex: 1;
+    padding: 9px 0px 9px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right-section{
+    margin-left: 10px;
+    width: 15%;
+    padding: 0px 10px 10px 0px;
+    margin-right: 28px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-left: -50PX;
+    height: 35px;
+    padding-bottom: 15px;
+    align-items: center;
+    
+}
+.ebay-project{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;  
+}
+.ebay-logo{
+    height: 28px;
+    font-size: 16px;
+    /* margin-left: 28px; */
+}
+.search-anything{
+    width: 70%;
+    height: 28px;
+}
+p{
+    font-size: 13px;
+    margin-left: 5px;
+}
+select{
+    /* margin-left: 5px; */
+    border: hidden;
+}
+.search-all-categories{
+    background-color: #fff;
+    padding: 9.6px;
+    padding: left: 30px;
+    margin-left:-95px;
+    border-width: thin;
+    font-size:11px;
+    width:30%;
+    padding-right:60px;
+    border-left:1px solid #c7c7c7;
+}
+.select-categories{
+    position: relative;
+    right: 98px;
+    border: hidden;
+    
+}
+.advanced{
+    padding-left: 10px;
+    font-size: 12px;
+    padding-top: 15px;
+}
+.search{
+    text-shadow: none;
+    border-radius: 0;
+    background: 0;
+    padding:0.5rem;
+    font-size: 14px;
+    min-width: 128px;
+    height: 32px;
+    font-weight: normal;
+    margin-top:9px;
+    /* background-color: blue; */
+    color: rgb(154, 148, 148);
+    border-width: 1px;
+    margin-top: 14px;
+    color: blue;
+    border-color: blue;
+    
+}
+.purchase-container{
+    display: flex;
+    /* justify-content: space-between; */
+    margin: auto;
+    
+}
+.vertical-images{
+    /* border: 1px solid black; */
+    height: 50vh;
+    
+}
+.vertical-images img{
+    height: 30px;
+    margin-top: 5px;
+}
+.slide-images ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.checkout{
+    /* border: 1px solid blueviolet; */
+    width: 30%;
+    margin-left: 10px;
+    
+}
+.confidence-seller{
+    margin-left: 80px;
+}
+.shop-confidence{
+    border: 1px solid yellowgreen;
+    height: 30vh;
+    width: 200%;
+}
+.seller-information{
+    border: 1px solid brown;
+    height: 30vh;
+    width: 200%;
+    margin-top: 7px;
+    
+}
+.prev,.next{
+}
+.year{
+    font-size: 17px;
+    font-weight:bolder:
+}
+.amount-solid{
+    color: red;
+}
+select{
+    border: 1px solid black;
+}
+.quantity{
+    display: flex;
+    align-items: center;
+}
+.amount-ordered{
+    border: 1px solid black;
+    padding: 10px;
+    height: 8px;
+    width: 16px;
+}
+.buy-now{
+    display: flex;
+    align-items: center;
+}
+.buy-it-now{
+    margin-bottom: 5px;
+    border-radius: 12px;
+    width: 110px;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+    border:hidden;
+}
+.add-to-cart{
+    margin-bottom: 5px;
+    border-radius: 12px;
+    width: 110px;
+    padding: 5px;
+    background-color: cadetblue;
+    color: white;
+    border: hidden;
+}
+.add-to-watchlist{
+    border-radius: 12px;
+    padding: 5px;
+    color: blue;
+    font-size: 13px;
+    background-color: white;
+    border-color: blue;
+    border-width: 1px;
+    padding-right: 7px;
+}
+.checkout-btn{
+    margin-left: 35px;
+}
+.amount{
+    font-size:20px;
+    font-weight:700px;
+    font-weight: bolder;
+}
+.slide-images{
+    background-image: url("purchasejordan.images/airjordan1.jpg");
+    height: 70vh;
+    width: 30%;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+    
