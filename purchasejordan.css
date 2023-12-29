@@ -104,100 +104,91 @@ select{
     height: 30px;
     margin-top: 5px;
 }
-.slide-images ul{
-    margin: 0;
-    padding: 0;
-    list-style: none;
+.main-image{
+    height: 335px;
+    margin-left: 40px;
+    background-size:contain;
+    background-color: ghostwhite;
+    padding: 30px;
 }
-.checkout{
-    /* border: 1px solid blueviolet; */
-    width: 30%;
-    margin-left: 10px;
+.checkout-container{
+    margin-left: 30px;
+}
+.select-box{
+    display: flex;
+    width: 100%;
+    border: 1px solid #8f8f8f;
+    padding:7px;
+}
+.select-size{
+    margin-left: 65%;
     
 }
-.confidence-seller{
-    margin-left: 80px;
+.condition-shoes{
+    display: flex;
 }
-.shop-confidence{
-    border: 1px solid yellowgreen;
-    height: 30vh;
-    width: 200%;
+.checkout-section{
+    margin-left: 60px;
 }
-.seller-information{
-    border: 1px solid brown;
-    height: 30vh;
-    width: 200%;
-    margin-top: 7px;
-    
+.quantity-sold{
+    display: flex;
+    text-align: center;
 }
-.prev,.next{
-}
-.year{
-    font-size: 17px;
-    font-weight:bolder:
-}
-.amount-solid{
+.last-one{
+    padding-top: 4px;
     color: red;
+    font-weight: bold;
 }
-select{
-    border: 1px solid black;
-}
-.quantity{
-    display: flex;
-    align-items: center;
-}
-.amount-ordered{
-    border: 1px solid black;
+.shop-section{
+    width: 100%;
+    margin: 4px;
     padding: 10px;
-    height: 8px;
-    width: 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    
+    
 }
-.buy-now{
-    display: flex;
-    align-items: center;
+.watchlist{
+    color: blue;
+    border-color: blue;
+    border-width: thin;
+    background-color: white;
 }
-.buy-it-now{
-    margin-bottom: 5px;
-    border-radius: 12px;
-    width: 110px;
-    padding: 5px;
-    color: white;
-    background-color: blue;
-    border:hidden;
+.watchlist:hover{
+    background-color:lightgrey;
 }
 .add-to-cart{
-    margin-bottom: 5px;
-    border-radius: 12px;
-    width: 110px;
-    padding: 5px;
-    background-color: cadetblue;
+    background-color: cornflowerblue;
+    border: none;
     color: white;
-    border: hidden;
 }
-.add-to-watchlist{
-    border-radius: 12px;
-    padding: 5px;
-    color: blue;
-    font-size: 13px;
-    background-color: white;
-    border-color: blue;
-    border-width: 1px;
-    padding-right: 7px;
+.add-to-cart:hover{
+    background-color: darkblue;
 }
-.checkout-btn{
-    margin-left: 35px;
+.buy-now{
+    background-color: blue;
+    border: none;
+    color: white;
 }
-.amount{
-    font-size:20px;
-    font-weight:700px;
+.buy-now:hover{
+    background-color: darkblue;
+}
+.watchers{
+    color: red;
+    font-size: bold ;
+}
+.new-with-box{
+    font-weight: bold;
+}
+.mens-jordan{
+    font-size: 17px;
     font-weight: bolder;
 }
-.slide-images{
-    background-image: url("purchasejordan.images/airjordan1.jpg");
-    height: 70vh;
-    width: 30%;
-    background-size:cover;
-    background-repeat:no-repeat;
 
-}
+
+
+
+
+
+
     

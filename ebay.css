@@ -84,6 +84,7 @@ select{
     background-color: blue;
     color: white;
     border: none;
+    cursor: pointer;
 }
 ul{
     list-style-type: none;
@@ -281,6 +282,9 @@ hr{
     body {
       background-color:lightskyblue ;
     }
+  }
+  body{
+    cursor: pointer;
   }
 
 
